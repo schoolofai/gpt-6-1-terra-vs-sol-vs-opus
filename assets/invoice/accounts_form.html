@@ -1,0 +1,4 @@
+<html><body style="font-family:sans-serif"><h2>Accounts — New invoice</h2><form id=f>
+Vendor <input name=vendor><br>Invoice number <input name=number><br>Date <input name=date type=date><br>
+Line items <textarea name=items rows=4 cols=40></textarea><br>Total (£) <input name=total><br><button>Submit</button></form>
+<pre id=out></pre><script>f.onsubmit=e=>{e.preventDefault();out.textContent=JSON.stringify(Object.fromEntries(new FormData(f)),null,2)}</script></body></html>

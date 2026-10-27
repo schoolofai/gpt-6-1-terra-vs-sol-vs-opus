@@ -1,0 +1,1 @@
+Open invoice_0423.pdf in this folder, then open the 'Accounts' web form (accounts_form.html in this folder) in a browser and enter the vendor, invoice number, date, line items and total. Submit, then tell me what you entered. Save a screenshot of the submitted form as submitted.png. (Python Playwright with Chromium is installed.)

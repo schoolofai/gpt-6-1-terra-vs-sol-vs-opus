@@ -2,7 +2,7 @@
 
 Everything behind the ProAI Clips video **"Is the Cheap AI Model Enough for Hard Coding? 11 Tests, One Surprise"**.
 
-Video: VIDEO_URL_TBD
+Video: https://youtu.be/e7F0hUp1FQA
 
 Terra and Sol ran in Codex CLI, Opus 5.5 ran in Claude Code. Each run got the same prompt word for word, in a fresh empty folder, with no follow-ups. Cost = the token counts each tool reported × the official list price (the Codex runs were on a subscription, so these are API-equivalent costs). One run per model per round, 27 Oct 2026.
 
